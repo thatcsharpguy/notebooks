@@ -231,3 +231,6 @@ mt-scraper/*
 partiallyd-scrape/*
 tloz-scrape/*
 /.metadata/
+
+# jupygit file "extension"
+*-jupygit___.ipynb
