@@ -14,6 +14,8 @@ keras = "*"
 matplotlib = "*"
 jupyter = "*"
 pandas = "*"
+opencv-contrib-python = "*"
+imutils = "*"
 
 [dev-packages]
 jupygit = "*"
